@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLJCzcUJIyh3omJvaBgoDyyxIhsvIrM/8TXT+drruY7z5qa7I+SkBJEkf6fRIIIUsQ/MNdkY1XBqyoM2Yh2oLg==",
+  "success": true,
+  "projectFilePath": "F:\\Study\\AzureTest\\AzureTest\\AzureTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed.abdullnaby\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
